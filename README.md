@@ -10,7 +10,10 @@ The tools are focused on Cisco devices.
 
 If you use any of these tools or find them useful please consider donating.  
 
-My bitcoin address is: [**``**](https://blockchain.info/address/)
+Donation Method | Address | QR Code
+--- | --- | ---
+Bitcoin (BTC) | 1HY3jPYVfE6YZbuYTYfMpazvSKRXjZDMbS  | ![1HY3jPYVfE6YZbuYTYfMpazvSKRXjZDMbS](https://github.com/MJL85/mnet/blob/master/docs/donate/BTC.png "Bitcoin (BTC)")
+Bitcoin Cash (BCH) | 1FkcNB86LP7WBtgkWeqWX81tyam67gqDiP | ![1FkcNB86LP7WBtgkWeqWX81tyam67gqDiP](https://github.com/MJL85/mnet/blob/master/docs/donate/BCH.png "Bitcoin Cash (BCH)")
 
 # Suite Tools
 | Module | Description |
